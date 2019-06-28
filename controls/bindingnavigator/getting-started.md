@@ -11,11 +11,11 @@ previous_url: bindingnavigator-overview-gettingstarted
 
 # Getting Started
 
-The following tutorial will demonstrate how to get __RadBindingNaviagator__ up and running: 
+The following tutorial will demonstrate how to get __RadBindingNavigator__ up and running: 
 
-1\.Place __RadBindingNaviagator__ control and BindingSource component on a form.
+1\.Place __RadBindingNavigator__ control and BindingSource component on a form.
 
-2\. Setup the `DataSource` property of the `BindingSource` and the `BindingSource` property of __RadBindingNaviagator__.
+2\. Setup the `DataSource` property of the `BindingSource` and the `BindingSource` property of __RadBindingNavigator__.
           
 {{source=..\SamplesCS\DataEntryAndBindingNavigator\RadBindingNavigatorForm.cs region=radBindingNavigator1}} 
 {{source=..\SamplesVB\DataEntryAndBindingNavigator\RadBindingNavigatorForm.vb region=radBindingNavigator1}} 
